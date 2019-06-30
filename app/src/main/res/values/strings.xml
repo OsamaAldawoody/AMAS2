@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">AMAS</string>
+
+
+
+        <string name="navigation_drawer_open">Open navigation drawer</string>
+        <string name="navigation_drawer_close">Close navigation drawer</string>
+        <string name="openDrawer">open_drawer</string>
+        <string name="closeDrawer">close_drawer</string>
+        <string name="amas_elteby_en">Amas Polyclinic Complex</string>
+        <string name="amas_elteby_ar">مجمع أماس الطبى</string>
+        <string name="login_register">login/register</string>
+
+        <string name="linkedIn">linkedIn</string>
+        <string name="facebook">facebook</string>
+        <string name="twitter">twitter</string>
+        <string name="youtube">youtube</string>
+
+    <string name="notification">notification</string>
+
+
+    <string name="search_for_appointment">Search for appointment</string>
+    <string name="eServices">eServices</string>
+    <string name="pharmacy">Pharmacy</string>
+    <string name="career">Career</string>
+    <string name="medical_calc">medical Calc</string>
+    <string name="health_converter">Health Converter</string>
+    <string name="news">News</string>
+    <string name="feedback">Feedback</string>
+    <string name="virtual_tour">Virtual Tour</string>
+    <string name="location">Location</string>
+    <string name="blood_donation">Blood Donation</string>
+    <string name="visual_accessibility">Visual Accessibility</string>
+    <string name="h2o">H2O</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="my_doctor">My Doctors</string>
+    <string name="radiology">Radiology</string>
+    <string name="monthly_reports">Monthly Reports</string>
+    <string name="request_medical_report">Request Medical Report</string>
+    <string name="Insurance_card">Insurance Card</string>
+    <string name="approvals">Approvals</string>
+    <string name="profile">Profile</string>
+    <string name="live_chat">Live Chat</string>
+    <string name="Notification">Notification</string>
+    <string name="lab_result">Lab Result</string>
+    <string name="prescription">Prescription</string>
+    <string name="vital_signs">Vital Signs</string>
+    <string name="my_tracker">My Tracker</string>
+    <string name="eyr_measurement">Eye Measurement</string>
+    <string name="child_vaccine">Child Vaccine</string>
+    <string name="my_family_files">My Family Files</string>
+    <string name="my_appointment">My Appointment</string>
+    <string name="health_weather_indicator">Health Weather Indicator</string>
+    <string name="vaccine">Vaccine</string>
+    <string name="sick_leaves">Sick Leaves</string>
+    <string name="visual_accessibility_setting">Visual Accessibility</string>
+    <string name="general_setting">General Setting</string>
+    <string name="v1_1">1.1</string>
+    <string name="veresionCode_2">2</string>
+</resources>
